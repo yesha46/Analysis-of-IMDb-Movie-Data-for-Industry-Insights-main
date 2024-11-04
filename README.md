@@ -1,8 +1,5 @@
 # Analysis of IMDb Movie Data for Industry Insights
 
-## Title
-* Analysis of IMDb Movie Data for Industry Insights**
-
 ## Project Overview
 This data analysis project explores IMDb movie data to uncover industry insights and trends. By examining various attributes of movies, such as titles, release years, genres, ratings, cast, directors, budgets, and revenues, this analysis aims to provide a deeper understanding of patterns within the movie industry through visualizations and descriptive insights.
 
